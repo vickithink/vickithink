@@ -1,6 +1,6 @@
 <!-- ===================== TOP BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Welcome%20to%20Vicki's%20GitHub!&fontSize=32&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 
 ```js
 const vicki = {
+    username: "vickithink",
     pronouns: "He/Him",
     location: "Bihar, India 🇮🇳",
     role: "Full Stack Developer",
@@ -117,16 +118,20 @@ const vicki = {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ivicki/">
+<a href="https://linkedin.com/in/vickithink">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/vickithink">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/vickithinkx">
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:mailtovicki@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/iamvickiyadav">
-<img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
 </a>
 
 </p>
