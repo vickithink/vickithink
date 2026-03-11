@@ -85,11 +85,19 @@
 
 ---
 
-# 💡 RANDOM DEV QUOTE
+# 💭 MY DEV PHILOSOPHY
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<b>
+“Technology isn’t something you simply know.  
+The more you explore it, experiment with it, and challenge it,  
+the deeper you go — and that’s how you truly learn it.”
+</b>
+
+<br><br>
+
+— <b>VICKI</b>
 
 </p>
 
