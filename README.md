@@ -85,20 +85,28 @@
 
 ---
 
-# 💭 MY DEV PHILOSOPHY
+<h2 align="center">💭 My Dev Philosophy</h2>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2"/>
+</p>
 
 <p align="center">
 
-<b>
-“Technology isn’t something you simply know.  
+✨ <b>
+Technology isn’t something you simply know.  
 The more you explore it, experiment with it, and challenge it,  
-the deeper you go — and that’s how you truly learn it.”
-</b>
+the deeper you go — and that’s how you truly learn it.
+</b> ✨
 
-<br><br>
+</p>
 
-— <b>VICKI</b>
+<p align="center">
+<i>— VICKI</i>
+</p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=2"/>
 </p>
 
 ---
