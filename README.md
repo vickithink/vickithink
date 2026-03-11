@@ -1,18 +1,20 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=VICKI&fontAlign=50&fontSize=70&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlign=50&descSize=20"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Vicki+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=VICKI&fontAlign=50&fontSize=80&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlign=50&descSize=22"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/vickithink?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/vickithink?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=vickithink&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vicki+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;Always+Learning+New+Tech"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/vickithink?style=for-the-badge&logo=github&color=111111"/>
+<img src="https://img.shields.io/github/stars/vickithink?style=for-the-badge&color=111111"/>
+<img src="https://komarev.com/ghpvc/?username=vickithink&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -41,7 +43,7 @@ const vicki = {
     "Backend Architecture"
   ],
 
-  motto: "Build. Break. Fix. Learn. Repeat 🚀"
+  motto: "Build → Break → Fix → Learn 🚀"
 }
 ```
 
@@ -49,11 +51,31 @@ const vicki = {
 
 # ⚡ TECH STACK
 
+<div align="center">
+
+<!-- scroll container -->
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,html,css,tailwind,vite,mongodb,mysql,git,github,vscode,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react" height="60"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+<img src="https://skillicons.dev/icons?i=js" height="60"/>
+<img src="https://skillicons.dev/icons?i=ts" height="60"/>
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+<img src="https://skillicons.dev/icons?i=vite" height="60"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=postman" height="60"/>
 
 </p>
+
+</div>
 
 ---
 
@@ -61,15 +83,15 @@ const vicki = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vickithink&show_icons=true&theme=tokyonight&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vickithink&show_icons=true&theme=tokyonight&border_radius=15"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vickithink&theme=tokyonight&border_radius=12"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vickithink&theme=tokyonight&border_radius=15"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickithink&theme=tokyo-night&bg_color=1a1b27&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickithink&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -77,10 +99,10 @@ const vicki = {
 
 # 🚀 CURRENT FOCUS
 
-- Building **Full Stack Web Applications**
-- Learning **System Design**
-- Exploring **Cloud Deployment**
-- Improving **Scalable Backend Architecture**
+✔ Building **Full Stack Applications**  
+✔ Learning **System Design**  
+✔ Exploring **Cloud Deployment**  
+✔ Improving **Backend Architecture**
 
 ---
 
@@ -130,7 +152,7 @@ const vicki = {
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,100:0f2027&section=footer"/>
 
 </p>
 
