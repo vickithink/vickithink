@@ -1,153 +1,139 @@
-<!-- ===================== TOP BANNER ===================== -->
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Welcome%20to%20Vicki's%20GitHub!&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Vicki%20Yadav&fontAlign=50&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlign=50&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+clean+and+scalable+UIs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Vicki+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+cool+web+applications;Always+learning+new+things"/>
 </p>
 
 ---
 
-## 🚀 Quick Overview
+# 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 About Me
-
-```js
+```javascript
 const vicki = {
-    username: "vickithink",
-    pronouns: "He/Him",
-    location: "Bihar, India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "C++"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "HTML", "CSS", "Tailwind"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
-    },
-    currentFocus: "Building Full Stack Applications",
-    funFact: "Debugging feels like detective work 🕵️‍♂️"
-};
+  username: "vickithink",
+  role: "Full Stack Developer",
+  location: "Bihar, India 🇮🇳",
+  
+  techStack: {
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "MySQL"],
+    languages: ["JavaScript", "TypeScript", "C++"]
+  },
+
+  tools: ["Git", "GitHub", "VS Code", "Postman"],
+
+  currentFocus: "Building scalable full-stack applications",
+
+  motto: "Code → Build → Learn → Repeat 🚀"
+}
 ```
 
-</td>
-
-<td width="50%">
-
-<h2>🎯 Current Focus</h2>
-
-<h3>🛠️ Working On</h3>
-<ul>
-<li>Full Stack Web Applications</li>
-<li>Modern React Applications</li>
-<li>Scalable Backend APIs</li>
-</ul>
-
-<h3>🌱 Learning</h3>
-<ul>
-<li>Advanced React Patterns</li>
-<li>System Design</li>
-<li>Cloud Deployment</li>
-</ul>
-
-<h3>💡 Open For</h3>
-<ul>
-<li>Open Source Collaboration</li>
-<li>Full Stack Projects</li>
-<li>Tech Discussions</li>
-</ul>
-
-<h3>⚡ Fun Fact</h3>
-<ul>
-<li>I learn faster by building real projects</li>
-<li>Debugging sometimes feels like solving puzzles</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284129-9b9c12d0-18b8-4a2d-bc53-6bcd8bfae6f2.gif" width="100%" />
-
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🚀 Tech Stack
 
-### 🌐 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
-</p>
 
-### 🧰 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,html,css,tailwind,vite,mongodb,mysql,git,github,vscode,postman" />
+
 </p>
 
 ---
 
-# 📈 Coding Activity
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vickithink&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vickithink&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vickithink&theme=tokyonight&border_radius=10"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vickithink&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickithink&theme=tokyo-night" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickithink&theme=tokyo-night&bg_color=1a1b27&hide_border=true"/>
 
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🧠 Currently Learning
+
+✔ Advanced React Patterns  
+✔ System Design  
+✔ Backend Architecture  
+✔ Cloud Deployment  
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 💬 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/vickithink">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/vickithink">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/vickithinkx">
-<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:mailtovicki@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- ===================== BOTTOM BANNER ===================== -->
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff"/>
+
+<img src="https://komarev.com/ghpvc/?username=vickithink&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vickithink&label=Profile%20Views&color=0e75b6"/>
-</p>
 
-<p align="center">
-⭐ From <strong>Vicki</strong> with ❤️ | Happy Coding 🚀
+⭐ From <b>Vicki</b> with ❤️
+
 </p>
